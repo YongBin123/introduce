@@ -151,18 +151,3 @@ tr:nth-child(13) td:nth-child(5) {
 .hidden {
   display: none;
 }
-
-
-/*@media screen and (max-width: 800px) {
-  .leftcolumn, .rightcolumn {   
-    width: 100%;
-    padding: 0;
-  }
-}
-
-@media screen and (max-width: 400px) {
-  .topnav a {
-    float: none;
-    width: 100%;
-  }
-}*/
